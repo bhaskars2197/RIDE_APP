@@ -1,8 +1,12 @@
 # Team Members: 
 > Shubham Jain
+>
 > Shreya Verma
+>
 > Adhiviraj Singh Bangari 
+>
 > Priyam Jain
+>
 > Bhaskar Sheshadri 
 
 # Link to the repo [Github](https://github.com/bhaskars2197/RIDE_APP).
