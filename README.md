@@ -1,4 +1,14 @@
-# Ride App
+# Team Members: 
+> Shubham Jain
+> Shreya Verma
+> Adhiviraj Singh Bangari 
+> Priyam Jain
+> Bhaskar Sheshadri 
+
+# Link to the repo [Github](https://github.com/bhaskars2197/RIDE_APP).
+
+
+# ** Ride App **
 Decentralized ride sharing on the Ethereum blockchain.
 The project contains the frontend website and backend Ethereum Smart Contract to deploy and run the decentralized ride sharing application.
 
